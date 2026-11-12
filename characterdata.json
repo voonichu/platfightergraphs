@@ -1,0 +1,86 @@
+{
+    "gouie": {
+        "weight": 68,
+        "hitstun gravity": 0.8
+    },
+
+    "slade": {
+        "weight": 97,
+        "hitstun gravity": 1.17
+    }, 
+
+    "la reina": {
+        "weight": 101,
+        "hitstun gravity": 1.6
+    },
+
+    "galvan": {
+        "weight": 104,
+        "hitstun gravity": 1.75
+    },
+
+    "absa": {
+        "weight": 80,
+        "hitstun gravity": 0.83
+    },
+
+    "olympia": {
+        "weight": 78,
+        "hitstun gravity": 1.6
+    },
+
+    "etalus": {
+        "weight": 106,
+        "hitstun gravity": 1.56
+    },
+
+    "forsburn": {
+        "weight": 95,
+        "hitstun gravity": 1.35
+    },
+
+    "orcane": {
+        "weight": 95,
+        "hitstun gravity": 1.33
+    },
+
+    "loxodont": {
+        "weight": 110,
+        "hitstun gravity": 1.06
+    },
+
+    "clairen": {
+        "weight": 87,
+        "hitstun gravity": 1.3
+    },
+
+    "maypul": {
+        "weight": 82,
+        "hitstun gravity": 1.55
+    },
+
+    "fleet": {
+        "weight": 85,
+        "hitstun gravity": 0.94
+    },
+
+    "kragg": {
+        "weight": 108,
+        "hitstun gravity": 1.7
+    },
+
+    "wrastor": {
+        "weight": 71,
+        "hitstun gravity": 1.1
+    },
+
+    "ranno": {
+        "weight": 90,
+        "hitstun gravity": 1.28
+    },
+
+    "zetterburn": {
+        "weight": 95,
+        "hitstun gravity": 1.4
+    }
+}

@@ -1,0 +1,699 @@
+GOUIE
+Weight
+68
+Ground Friction
+0.85
+Air Friction
+0.21
+Dash Frames
+12
+Initial Dash Speed
+15.5
+Initial Dash Acceleration
+2.5
+Max Run Speed
+13.0
+Run Turn Acceleration
+4.0
+Run Turn Frames
+15
+Max Walk Acceleration
+0.5
+Max Walk Speed
+7.5
+Gravity
+0.8
+Hitstun Gravity
+0.8
+Max Fall Speed
+15.5
+Fast Fall Speed
+17.5
+Air Acceleration
+2.2
+Max Air Speed Horizontal
+12.8
+Max Jump Speed Horizontal
+12.0
+Full Hop Speed
+22.0
+Short Hop Speed
+14.0
+Double Jump Speed
+22.0
+Max Double Jump Horizontal Speed
+7.5
+Air Dodge Speed
+20.0
+Air Dodge Friction
+0.68
+Roll Speed
+28.0
+Shield Size Multiplier
+Ledge Stand Speed
+16.0
+Ledge Roll Speed
+32.0
+Max Horizontal Ledge Jump Speed
+11.0
+Getup Roll Speed
+28.0
+Tech Roll Speed
+30.0
+Wall Jump Speed X
+13.5
+Wall Jump Speed Y
+18.0
+
+BIG GOUIE
+Weight
+105
+Ground Friction
+0.75
+Air Friction
+0.06
+Dash Frames
+12
+Initial Dash Speed
+14.6
+Initial Dash Acceleration
+2.5
+Max Run Speed
+13.9
+Run Turn Acceleration
+4.0
+Run Turn Frames
+25
+Max Walk Acceleration
+0.5
+Max Walk Speed
+10.15
+Gravity
+1.0
+Hitstun Gravity
+1.0
+Max Fall Speed
+24.0
+Fast Fall Speed
+28.0
+Air Acceleration
+1.0
+Max Air Speed Horizontal
+9.6
+Max Jump Speed Horizontal
+12.0
+Full Hop Speed
+26.4
+Short Hop Speed
+15.2
+Double Jump Speed
+26.0
+Max Double Jump Horizontal Speed
+7.5
+Air Dodge Speed
+20.0
+Air Dodge Friction
+0.68
+Roll Speed
+28.0
+Shield Size Multiplier
+Ledge Stand Speed
+16.0
+Ledge Roll Speed
+32.0
+Max Horizontal Ledge Jump Speed
+11.0
+Getup Roll Speed
+28.0
+Tech Roll Speed
+30.0
+Wall Jump Speed X
+13.5
+Wall Jump Speed Y
+26.0
+
+SLADE
+Weight
+97
+Ground Friction
+0.95
+Air Friction
+0.05
+Dash Frames
+14
+Initial Dash Speed
+16.0
+Initial Dash Acceleration
+5.0
+Max Run Speed
+18.15
+Run Turn Acceleration
+2.0
+Run Turn Frames
+22
+Max Walk Acceleration
+0.65
+Max Walk Speed
+12.8
+Gravity
+1.17
+Hitstun Gravity
+1.17
+Max Fall Speed
+23.0
+Fast Fall Speed
+27.5
+Air Acceleration
+0.64
+Max Air Speed Horizontal
+10.7
+Max Jump Speed Horizontal
+12.8
+Full Hop Speed
+27.85
+Short Hop Speed
+19.25
+Double Jump Speed
+26.5
+Max Double Jump Horizontal Speed
+10.7
+Air Dodge Speed
+26.0
+Air Dodge Friction
+1.2
+Roll Speed
+28.5
+Shield Size Multiplier
+Ledge Stand Speed
+10.0
+Ledge Roll Speed
+28.0
+Max Horizontal Ledge Jump Speed
+10.7
+Getup Roll Speed
+28.0
+Tech Roll Speed
+30.0
+Wall Jump Speed X
+11.5
+Wall Jump Speed Y
+26.0
+
+LA REINA
+Weight
+101
+Ground Friction
+0.6
+Air Friction
+0.16
+Dash Frames
+13
+Initial Dash Speed
+15.5
+Initial Dash Acceleration
+4.8
+Max Run Speed
+17.75
+Run Turn Acceleration
+2.5
+Run Turn Frames
+19
+Max Walk Acceleration
+0.56
+Max Walk Speed
+7.8
+Gravity
+1.6
+Hitstun Gravity
+1.6
+Max Fall Speed
+24.5
+Fast Fall Speed
+35.0
+Air Acceleration
+0.77
+Max Air Speed Horizontal
+11.9
+Max Jump Speed Horizontal
+13.0
+Full Hop Speed
+33.3
+Short Hop Speed
+22.0
+Double Jump Speed
+33.0
+Max Double Jump Horizontal Speed
+12.0
+Air Dodge Speed
+24.0
+Air Dodge Friction
+1.4
+Roll Speed
+28.5
+Shield Size Multiplier
+Ledge Stand Speed
+10.0
+Ledge Roll Speed
+28.0
+Max Horizontal Ledge Jump Speed
+11.0
+Getup Roll Speed
+25.0
+Tech Roll Speed
+27.0
+Wall Jump Speed X
+13.0
+Wall Jump Speed Y
+29.0
+
+GALVAN
+Weight
+104
+Ground Friction
+0.64
+Air Friction
+0.1
+Dash Frames
+11
+Initial Dash Speed
+14.0
+Initial Dash Acceleration
+3.8
+Max Run Speed
+17.6
+Run Turn Acceleration
+1.42
+Run Turn Frames
+29
+Max Walk Acceleration
+0.7
+Max Walk Speed
+8.0
+Gravity
+1.75
+Hitstun Gravity
+1.75
+Max Fall Speed
+25.6
+Fast Fall Speed
+37.75
+Air Acceleration
+0.6
+Max Air Speed Horizontal
+8.85
+Max Jump Speed Horizontal
+9.2
+Full Hop Speed
+35.0
+Short Hop Speed
+21.5
+Double Jump Speed
+35.0
+Max Double Jump Horizontal Speed
+9.0
+Air Dodge Speed
+25.0
+Air Dodge Friction
+1.4
+Roll Speed
+30.0
+Shield Size Multiplier
+Ledge Stand Speed
+16.0
+Ledge Roll Speed
+30.0
+Max Horizontal Ledge Jump Speed
+11.0
+Getup Roll Speed
+28.0
+Tech Roll Speed
+30.0
+Wall Jump Speed X
+16.0
+Wall Jump Speed Y
+32.0
+
+ABSA
+DACUS Speed Multiplier
+1.2
+Weight
+80
+Ground Friction
+0.89
+Air Friction
+0.11
+Dash Frames
+8
+Initial Dash Speed
+11.33
+Initial Dash Acceleration
+4.5
+Max Run Speed
+17.7
+Run Turn Acceleration
+4.25
+Run Turn Frames
+20
+Max Walk Acceleration
+0.56
+Max Walk Speed
+8.5
+Gravity
+0.83
+Hitstun Gravity
+0.83
+Max Fall Speed
+17.0
+Fast Fall Speed
+23.0
+Air Acceleration
+0.75
+Max Air Speed Horizontal
+11.75
+Max Jump Speed Horizontal
+15.5
+Full Hop Speed
+22.5
+Short Hop Speed
+14.75
+Double Jump Speed
+-2.8333
+Max Double Jump Horizontal Speed
+12.5
+Air Dodge Speed
+28.5
+Air Dodge Friction
+1.9
+Roll Speed
+26.9
+Shield Size Multiplier
+Ledge Stand Speed
+16.0
+Ledge Roll Speed
+32.0
+Max Horizontal Ledge Jump Speed
+11.0
+Getup Roll Speed
+25.5
+Tech Roll Speed
+27.0
+Wall Jump Speed X
+17.0
+Wall Jump Speed Y
+19.85
+
+OLYMPIA
+DACUS Speed Multiplier
+1.2
+Weight
+78
+Ground Friction
+0.75
+Air Friction
+0.14
+Dash Frames
+12
+Initial Dash Speed
+19.15
+Initial Dash Acceleration
+3.5
+Max Run Speed
+16.4
+Run Turn Acceleration
+3.5
+Run Turn Frames
+18
+Max Walk Acceleration
+0.85
+Max Walk Speed
+6.5
+Gravity
+1.85
+Hitstun Gravity
+1.6
+Max Fall Speed
+33.07
+Fast Fall Speed
+40.0
+Air Acceleration
+0.85
+Max Air Speed Horizontal
+12.0
+Max Jump Speed Horizontal
+12.5
+Full Hop Speed
+35.5
+Short Hop Speed
+22.0
+Double Jump Speed
+36.0
+Max Double Jump Horizontal Speed
+12.0
+Air Dodge Speed
+23.5
+Air Dodge Friction
+1.75
+Roll Speed
+26.5
+Shield Size Multiplier
+Ledge Stand Speed
+10.0
+Ledge Roll Speed
+28.5
+Max Horizontal Ledge Jump Speed
+11.0
+Getup Roll Speed
+25.5
+Tech Roll Speed
+27.0
+Wall Jump Speed X
+19.85
+Wall Jump Speed Y
+32.5
+
+ETALUS
+Weight
+106
+Ground Friction
+0.43
+Air Friction
+0.13
+Dash Frames
+14
+Initial Dash Speed
+14.2
+Initial Dash Acceleration
+3.68
+Max Run Speed
+14.2
+Run Turn Acceleration
+0.7
+Run Turn Frames
+28
+Max Walk Acceleration
+0.56
+Max Walk Speed
+9.5
+Gravity
+1.56
+Hitstun Gravity
+1.56
+Max Fall Speed
+27.6
+Fast Fall Speed
+37.0
+Air Acceleration
+0.75
+Max Air Speed Horizontal
+11.33
+Max Jump Speed Horizontal
+15.5
+Full Hop Speed
+32.0
+Short Hop Speed
+22.5
+Double Jump Speed
+31.0
+Max Double Jump Horizontal Speed
+12.0
+Air Dodge Speed
+21.25
+Air Dodge Friction
+1.1
+Roll Speed
+31.0
+Shield Size Multiplier
+Ledge Stand Speed
+10.0
+Ledge Roll Speed
+24.0
+Max Horizontal Ledge Jump Speed
+11.0
+Getup Roll Speed
+27.0
+Tech Roll Speed
+29.0
+Wall Jump Speed X
+19.8
+Wall Jump Speed Y
+28.0
+Armored Double Jump Speed
+33.8
+Armored Fall Speed Max
+32.5
+Armored Full Hop Speed
+35.0
+Armored Gravity
+1.84
+Armored Short Hop Speed
+25.0
+Armored Weight
+180.0
+Dash Attack Jump Speed Horizontal Max
+18.0
+Ice Ground Friction
+0.15
+Ledge Special Ice Ground Friction
+0.05
+
+FORSBURN
+DACUS Speed Multiplier
+0.75
+Weight
+95
+Ground Friction
+0.54
+Air Friction
+0.13
+Dash Frames
+16
+Initial Dash Speed
+20.0
+Initial Dash Acceleration
+5.0
+Max Run Speed
+17.0
+Run Turn Acceleration
+4.0
+Run Turn Frames
+22
+Max Walk Acceleration
+0.56
+Max Walk Speed
+9.2
+Gravity
+1.35
+Hitstun Gravity
+1.35
+Max Fall Speed
+27.0
+Fast Fall Speed
+34.0
+Air Acceleration
+0.72
+Max Air Speed Horizontal
+11.3
+Max Jump Speed Horizontal
+12.5
+Full Hop Speed
+30.9
+Short Hop Speed
+18.6
+Double Jump Speed
+27.85
+Max Double Jump Horizontal Speed
+15.0
+Air Dodge Speed
+25.0
+Air Dodge Friction
+1.4
+Roll Speed
+28.0
+Shield Size Multiplier
+Ledge Stand Speed
+16.0
+Ledge Roll Speed
+32.0
+Max Horizontal Ledge Jump Speed
+11.0
+Getup Roll Speed
+28.0
+Tech Roll Speed
+30.0
+Wall Jump Speed X
+13.2
+Wall Jump Speed Y
+27.2
+
+ORCANE
+Weight
+95
+Ground Friction
+0.44
+Air Friction
+0.2
+Dash Frames
+12
+Initial Dash Speed
+16.0
+Initial Dash Acceleration
+4.24
+Max Run Speed
+19.8
+Run Turn Acceleration
+4.24
+Run Turn Frames
+21
+Max Walk Acceleration
+0.56
+Max Walk Speed
+13.5
+Gravity
+1.33
+Hitstun Gravity
+1.33
+Max Fall Speed
+25.0
+Fast Fall Speed
+28.9
+Air Acceleration
+0.71
+Max Air Speed Horizontal
+12.0
+Max Jump Speed Horizontal
+16.0
+Full Hop Speed
+29.4
+Short Hop Speed
+18.4
+Double Jump Speed
+32.6
+Max Double Jump Horizontal Speed
+13.8
+Air Dodge Speed
+25.0
+Air Dodge Friction
+1.1
+Roll Speed
+28.0
+Shield Size Multiplier
+Ledge Stand Speed
+10.0
+Ledge Roll Speed
+24.0
+Max Horizontal Ledge Jump Speed
+11.0
+Getup Roll Speed
+26.0
+Tech Roll Speed
+28.5
+Wall Jump Speed X
+14.5
+Wall Jump Speed Y
+26.7
+Hydroplane Jump Speed Horizontal Max
+19.8
+Puddle Weight
+5.0
+Run Turn Boost Speed
+10.0
